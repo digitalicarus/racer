@@ -3,8 +3,8 @@ define([], function () {
 	"use strict";
 
 	return {
-		width: 280 << 0,
-		height: 160 << 0,
+		width: 280 << 2,
+		height: 160 << 2,
 		canvasBgColor: "black",
 		assets: []
 	};

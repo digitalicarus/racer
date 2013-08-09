@@ -9,13 +9,13 @@
 		{
 			"name":   "leftHeadlight",
 			"points": [-3,15,-5,13,-3,14,-3,15],
-			"stroke": "",
+			"stroke": "yellow",
 			"fill":   ""
 		},
 		{
 			"name":   "rightHeadlight",
 			"points": [3,15,5,13,3,14,3,15],
-			"stroke": "",
+			"stroke": "yellow",
 			"fill":   ""
 		},
 		{
@@ -40,13 +40,13 @@
 			"name":   "windshield",
 			"points": [-4,2,-5,8,-3,9,3,9,5,8,4,2],
 			"stroke": "",
-			"fill":   ""
+			"fill":   "#111"
 		},
 		{
 			"name":   "moonRoof",
 			"points": [-4,2,-4,-4,4,-4,4,2],
 			"stroke": "",
-			"fill":   ""
+			"fill":   "#111"
 		}
 	]
 }
